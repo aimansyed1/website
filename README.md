@@ -14,7 +14,7 @@ Optional:
 
 1. Open your repository.
 2. Click **Add file** → **Upload files**.
-3. Upload `index.html`, `styles.css`, `script.js`, and the `assets` folder.
+3. Upload `index.html`, `styles.css`, `script.js`, and `Aiman-Syed-Client-Guide.docx`.
 4. Commit the changes.
 
 ## Turn on GitHub Pages
